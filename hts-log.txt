@@ -1,0 +1,177 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Dec 2022 08:45:47 at https://famobi.com/?locale=en +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://famobi.com/?locale=en -O1 "C:\Users\ak47\SKM Dropbox\Nam NH\Template HTML5\Famobi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:47:57	Warning: 	Found for famobi.com/robots.txt
+08:47:57	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/robots.txt and https://famobi.com/robots.txt
+08:47:57	Warning: 	Warning moved treated for famobi.com/robots.txt (real one is https://famobi.com/robots.txt)
+08:47:57	Warning: 	Found for famobi.com/
+08:47:57	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/ and https://famobi.com/
+08:47:57	Warning: 	File has moved from famobi.com/ to https://famobi.com/
+08:48:21	Warning: 	Found for https://famobi.com/jobs/
+08:48:21	Warning: 	File has moved from https://famobi.com/jobs/ to ?locale=en
+08:58:45	Warning: 	Found for https://famobi.com/advergames/
+08:58:45	Warning: 	File has moved from https://famobi.com/advergames/ to ?locale=en
+08:59:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://famobi.com/press-release-om-nom-run-in-html5/​https://www.instagram.com/HUAWEImobileuk/ (from https://famobi.com/press-release-om-nom-run-in-html5/?locale=en)
+09:05:57	Warning: 	Found for famobi.com/tap-tap-dunk/?locale=en
+09:05:57	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/tap-tap-dunk/?locale=en and https://famobi.com/tap-tap-dunk/?locale=en
+09:05:57	Warning: 	File has moved from famobi.com/tap-tap-dunk/?locale=en to https://famobi.com/tap-tap-dunk/?locale=en
+09:05:57	Warning: 	Found for https://famobi.com/publishers/
+09:05:57	Warning: 	File has moved from https://famobi.com/publishers/ to ?locale=en
+09:07:21	Warning: 	Found for famobi.com/bubble-woods/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/bubble-woods/?locale=en and https://famobi.com/bubble-woods/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/bubble-woods/?locale=en to https://famobi.com/bubble-woods/?locale=en
+09:07:21	Warning: 	Found for famobi.com/onet-connect-classic/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/onet-connect-classic/?locale=en and https://famobi.com/onet-connect-classic/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/onet-connect-classic/?locale=en to https://famobi.com/onet-connect-classic/?locale=en
+09:07:21	Warning: 	Found for famobi.com/color-pixel-art-classic/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/color-pixel-art-classic/?locale=en and https://famobi.com/color-pixel-art-classic/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/color-pixel-art-classic/?locale=en to https://famobi.com/color-pixel-art-classic/?locale=en
+09:07:21	Warning: 	Found for famobi.com/endless-truck/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/endless-truck/?locale=en and https://famobi.com/endless-truck/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/endless-truck/?locale=en to https://famobi.com/endless-truck/?locale=en
+09:07:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://famobi.com/img/Checked.svg (from https://famobi.com/privacy/?locale=en)
+09:07:21	Warning: 	Found for https://famobi.com/why-famobi/
+09:07:21	Warning: 	File has moved from https://famobi.com/why-famobi/ to ?locale=en
+09:07:21	Warning: 	Found for https://famobi.com/developers/
+09:07:21	Warning: 	File has moved from https://famobi.com/developers/ to ?locale=en
+09:07:21	Warning: 	Found for https://famobi.com/license-html5-games/advergames/
+09:07:21	Warning: 	File has moved from https://famobi.com/license-html5-games/advergames/ to ?locale=en
+09:07:21	Warning: 	Found for https://famobi.com/license-html5-games/lead-generation/
+09:07:21	Warning: 	File has moved from https://famobi.com/license-html5-games/lead-generation/ to ?locale=en
+09:07:21	Warning: 	Found for https://famobi.com/license-html5-games/custom-game-development/
+09:07:21	Warning: 	File has moved from https://famobi.com/license-html5-games/custom-game-development/ to ?locale=en
+09:07:21	Error: 	"Not Found" (404) at link https://ik.imagekit.io/sjyfpsp1n/marketing/screens/landscape/8Ball_Billards_Classic_Landscape1.jpeg? (from https://famobi.com/8-ball-billiards-classic/?locale=en)
+09:07:21	Error: 	"Not Found" (404) at link https://ik.imagekit.io/sjyfpsp1n/marketing/screens/landscape/8Ball_Billards_Classic_Landscape3.jpeg? (from https://famobi.com/8-ball-billiards-classic/?locale=en)
+09:07:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://famobi.com/press-release-om-nom-run-in-html5/​https://www.instagram.com/HUAWEImobileuk/ (from https://famobi.com/press-release-om-nom-run-in-html5/?locale=en)
+09:07:21	Warning: 	Found for famobi.com/bubble-tower-3d/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/bubble-tower-3d/?locale=en and https://famobi.com/bubble-tower-3d/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/bubble-tower-3d/?locale=en to https://famobi.com/bubble-tower-3d/?locale=en
+09:07:21	Warning: 	Found for famobi.com/slice-rush/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/slice-rush/?locale=en and https://famobi.com/slice-rush/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/slice-rush/?locale=en to https://famobi.com/slice-rush/?locale=en
+09:07:21	Warning: 	Found for famobi.com/hippo-pizza-chef/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/hippo-pizza-chef/?locale=en and https://famobi.com/hippo-pizza-chef/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/hippo-pizza-chef/?locale=en to https://famobi.com/hippo-pizza-chef/?locale=en
+09:07:21	Warning: 	Found for famobi.com/cannon-balls-3d/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/cannon-balls-3d/?locale=en and https://famobi.com/cannon-balls-3d/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/cannon-balls-3d/?locale=en to https://famobi.com/cannon-balls-3d/?locale=en
+09:07:21	Warning: 	Found for famobi.com/domino-frenzy/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/domino-frenzy/?locale=en and https://famobi.com/domino-frenzy/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/domino-frenzy/?locale=en to https://famobi.com/domino-frenzy/?locale=en
+09:07:21	Warning: 	Found for famobi.com/pets-rush/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/pets-rush/?locale=en and https://famobi.com/pets-rush/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/pets-rush/?locale=en to https://famobi.com/pets-rush/?locale=en
+09:07:21	Warning: 	Found for famobi.com/zoo-feeder/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/zoo-feeder/?locale=en and https://famobi.com/zoo-feeder/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/zoo-feeder/?locale=en to https://famobi.com/zoo-feeder/?locale=en
+09:07:21	Warning: 	Found for famobi.com/crossover-21/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/crossover-21/?locale=en and https://famobi.com/crossover-21/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/crossover-21/?locale=en to https://famobi.com/crossover-21/?locale=en
+09:07:21	Warning: 	Found for famobi.com/element-balls/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/element-balls/?locale=en and https://famobi.com/element-balls/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/element-balls/?locale=en to https://famobi.com/element-balls/?locale=en
+09:07:21	Warning: 	Found for famobi.com/tower-crash-3d/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/tower-crash-3d/?locale=en and https://famobi.com/tower-crash-3d/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/tower-crash-3d/?locale=en to https://famobi.com/tower-crash-3d/?locale=en
+09:07:21	Warning: 	Found for famobi.com/sushi-roll/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/sushi-roll/?locale=en and https://famobi.com/sushi-roll/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/sushi-roll/?locale=en to https://famobi.com/sushi-roll/?locale=en
+09:07:21	Warning: 	Found for famobi.com/onet-world/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/onet-world/?locale=en and https://famobi.com/onet-world/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/onet-world/?locale=en to https://famobi.com/onet-world/?locale=en
+09:07:21	Warning: 	Found for famobi.com/blocks-puzzle-zoo/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/blocks-puzzle-zoo/?locale=en and https://famobi.com/blocks-puzzle-zoo/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/blocks-puzzle-zoo/?locale=en to https://famobi.com/blocks-puzzle-zoo/?locale=en
+09:07:21	Warning: 	Found for famobi.com/emergency-surgery/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/emergency-surgery/?locale=en and https://famobi.com/emergency-surgery/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/emergency-surgery/?locale=en to https://famobi.com/emergency-surgery/?locale=en
+09:07:21	Warning: 	Found for famobi.com/element-blocks/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/element-blocks/?locale=en and https://famobi.com/element-blocks/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/element-blocks/?locale=en to https://famobi.com/element-blocks/?locale=en
+09:07:21	Warning: 	Found for famobi.com/8ball-online/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/8ball-online/?locale=en and https://famobi.com/8ball-online/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/8ball-online/?locale=en to https://famobi.com/8ball-online/?locale=en
+09:07:21	Warning: 	Found for famobi.com/zoo-boom/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/zoo-boom/?locale=en and https://famobi.com/zoo-boom/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/zoo-boom/?locale=en to https://famobi.com/zoo-boom/?locale=en
+09:07:21	Warning: 	Found for famobi.com/pirate-cards/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/pirate-cards/?locale=en and https://famobi.com/pirate-cards/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/pirate-cards/?locale=en to https://famobi.com/pirate-cards/?locale=en
+09:07:21	Warning: 	Found for famobi.com/moto-x3m-pool-party/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/moto-x3m-pool-party/?locale=en and https://famobi.com/moto-x3m-pool-party/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/moto-x3m-pool-party/?locale=en to https://famobi.com/moto-x3m-pool-party/?locale=en
+09:07:21	Warning: 	Found for famobi.com/wiggle/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/wiggle/?locale=en and https://famobi.com/wiggle/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/wiggle/?locale=en to https://famobi.com/wiggle/?locale=en
+09:07:21	Warning: 	Found for famobi.com/adventure-drivers/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/adventure-drivers/?locale=en and https://famobi.com/adventure-drivers/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/adventure-drivers/?locale=en to https://famobi.com/adventure-drivers/?locale=en
+09:07:21	Warning: 	Found for famobi.com/my-free-farm-2/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/my-free-farm-2/?locale=en and https://famobi.com/my-free-farm-2/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/my-free-farm-2/?locale=en to https://famobi.com/my-free-farm-2/?locale=en
+09:07:21	Warning: 	Found for famobi.com/moto-x3m/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/moto-x3m/?locale=en and https://famobi.com/moto-x3m/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/moto-x3m/?locale=en to https://famobi.com/moto-x3m/?locale=en
+09:07:21	Warning: 	Found for famobi.com/vip-spades/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/vip-spades/?locale=en and https://famobi.com/vip-spades/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/vip-spades/?locale=en to https://famobi.com/vip-spades/?locale=en
+09:07:21	Warning: 	Found for famobi.com/kawaii-chibi-creator/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/kawaii-chibi-creator/?locale=en and https://famobi.com/kawaii-chibi-creator/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/kawaii-chibi-creator/?locale=en to https://famobi.com/kawaii-chibi-creator/?locale=en
+09:07:21	Warning: 	Found for famobi.com/find-in-mind/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/find-in-mind/?locale=en and https://famobi.com/find-in-mind/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/find-in-mind/?locale=en to https://famobi.com/find-in-mind/?locale=en
+09:07:21	Warning: 	Found for famobi.com/merge-jewels/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/merge-jewels/?locale=en and https://famobi.com/merge-jewels/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/merge-jewels/?locale=en to https://famobi.com/merge-jewels/?locale=en
+09:07:21	Error: 	"Not Found" (404) at link https://ik.imagekit.io/sjyfpsp1n/marketing/ingameImpressions/merge_jewels_2.png (from https://famobi.com/latest-games/merge-jewels/?locale=en)
+09:07:21	Warning: 	Found for famobi.com/high-hills/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/high-hills/?locale=en and https://famobi.com/high-hills/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/high-hills/?locale=en to https://famobi.com/high-hills/?locale=en
+09:07:21	Warning: 	Found for famobi.com/knife-rain/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/knife-rain/?locale=en and https://famobi.com/knife-rain/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/knife-rain/?locale=en to https://famobi.com/knife-rain/?locale=en
+09:07:21	Warning: 	Found for famobi.com/maze/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/maze/?locale=en and https://famobi.com/maze/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/maze/?locale=en to https://famobi.com/maze/?locale=en
+09:07:21	Warning: 	Found for famobi.com/1000-blocks/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/1000-blocks/?locale=en and https://famobi.com/1000-blocks/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/1000-blocks/?locale=en to https://famobi.com/1000-blocks/?locale=en
+09:07:21	Warning: 	Found for famobi.com/jackpot-de/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/jackpot-de/?locale=en and https://famobi.com/jackpot-de/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/jackpot-de/?locale=en to https://famobi.com/jackpot-de/?locale=en
+09:07:21	Warning: 	Found for famobi.com/candy-bubble/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/candy-bubble/?locale=en and https://famobi.com/candy-bubble/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/candy-bubble/?locale=en to https://famobi.com/candy-bubble/?locale=en
+09:07:21	Warning: 	Found for famobi.com/gold-mine/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/gold-mine/?locale=en and https://famobi.com/gold-mine/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/gold-mine/?locale=en to https://famobi.com/gold-mine/?locale=en
+09:07:21	Warning: 	Found for famobi.com/diamond-rush/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/diamond-rush/?locale=en and https://famobi.com/diamond-rush/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/diamond-rush/?locale=en to https://famobi.com/diamond-rush/?locale=en
+09:07:21	Warning: 	Found for famobi.com/totemia-cursed-marbles/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/totemia-cursed-marbles/?locale=en and https://famobi.com/totemia-cursed-marbles/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/totemia-cursed-marbles/?locale=en to https://famobi.com/totemia-cursed-marbles/?locale=en
+09:07:21	Warning: 	Found for famobi.com/perfect-piano/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/perfect-piano/?locale=en and https://famobi.com/perfect-piano/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/perfect-piano/?locale=en to https://famobi.com/perfect-piano/?locale=en
+09:07:21	Warning: 	Found for famobi.com/3d-free-kick/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/3d-free-kick/?locale=en and https://famobi.com/3d-free-kick/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/3d-free-kick/?locale=en to https://famobi.com/3d-free-kick/?locale=en
+09:07:21	Warning: 	Found for famobi.com/table-tennis-world-tour/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/table-tennis-world-tour/?locale=en and https://famobi.com/table-tennis-world-tour/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/table-tennis-world-tour/?locale=en to https://famobi.com/table-tennis-world-tour/?locale=en
+09:07:21	Warning: 	Found for famobi.com/truck-trials/?locale=en
+09:07:21	Warning: 	Redirected link is identical because of 'URL Hack' option: famobi.com/truck-trials/?locale=en and https://famobi.com/truck-trials/?locale=en
+09:07:21	Warning: 	File has moved from famobi.com/truck-trials/?locale=en to https://famobi.com/truck-trials/?locale=en
+09:07:21	Warning: 	Retry after error 500 () at link https://famobi.com/img/Checked.svg (from https://famobi.com/privacy/?locale=en)
+09:07:22	Error: 	"Internal Server Error" (500) after 2 retries at link https://famobi.com/press-release-om-nom-run-in-html5/​https://www.instagram.com/HUAWEImobileuk/ (from https://famobi.com/press-release-om-nom-run-in-html5/?locale=en)
+09:07:22	Error: 	"" (500) after 2 retries at link https://famobi.com/img/Checked.svg (from https://famobi.com/privacy/?locale=en)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 35 seconds : 1370 links scanned, 1305 files written (51034627 bytes overall) [48049385 bytes received at 37103 bytes/sec], 6147872 bytes transferred using HTTP compression in 203 files, ratio 35%, 4.5 requests per connection
+(5 errors, 161 warnings, 0 messages)
